@@ -94,4 +94,5 @@ de-pipeline-api-logs-tejj097/
 ├── raw/          # Raw logs from Kafka producer
 ├── processed/    # Processed results from PySpark
 └── analytics/    # SQL analytics outputs
-```
+```<img width="1408" height="768" alt="image_8e11eba5" src="https://github.com/user-attachments/assets/bd1bdf42-d736-4294-a38e-3f927e689fa3" />
+
